@@ -1,0 +1,18 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Lab 3 for COMP2068",
+  "main": "lab3.js",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "connect": "^3.5.0",
+    "currency": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "nodemon server.js"
+  },
+  "author": "Mikhail",
+  "license": "ISC"
+}
